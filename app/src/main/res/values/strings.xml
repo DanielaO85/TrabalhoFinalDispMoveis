@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">TrabalhoFinalDispMoveis</string>
+    <string name="app_name">Todo App</string>
+    <string name="add_task">Adicionar Tarefa</string>
+    <string name="task_title">Título da Tarefa</string>
+    <string name="task_description">Descrição da Tarefa</string>
+    <string name="due_date">Data de Vencimento</string>
+    <string name="save_task">Salvar Tarefa</string>
+    <string name="edit_task">Editar Tarefa</string>
 </resources>
